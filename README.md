@@ -26,7 +26,3 @@ Explore the following projects within this repository:
 2. [EDA_diageo]: EDA for Diageo PLC a British multinational alcoholic beverages company.
 
 Each project folder contains detailed information, code, and documentation.
-
-## Contributing
-
-Contributions are welcome! Whether it's fixing a bug, improving documentation, or adding a new feature, please follow the [contribution guidelines](link-to-contributing) to get started.
