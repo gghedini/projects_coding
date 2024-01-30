@@ -22,7 +22,8 @@ This repository houses my codes and projects related to extracting valuable insi
 
 Explore the following projects within this repository:
 
-1. [NBAstats_predictive_modeling]: Predictions and Forecasting of NBA stats over the last 50 years.
-2. [EDA_diageo]: EDA for Diageo PLC a British multinational alcoholic beverages company.
+1. [EDA_diageo]: EDA for Diageo PLC a British multinational alcoholic beverages company.
+2. [NBAstats_predictive_modeling]: Predictions and Forecasting of NBA stats over the last 50 years.
+3. [P&L_SQL]: Building automatic Income Statement and Balanche Sheet.
 
 Each project folder contains detailed information, code, and documentation.
